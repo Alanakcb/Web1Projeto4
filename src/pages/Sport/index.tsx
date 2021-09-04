@@ -1,7 +1,7 @@
 import { Header, Section, Main, Footer } from "components"; 
 
 
-const Home = () => {
+const Sport = () => {
     return (
         <>
             <Header/>
@@ -12,4 +12,4 @@ const Home = () => {
     )
 }
 
-export default Home
+export default Sport

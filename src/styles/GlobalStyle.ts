@@ -8,6 +8,11 @@ export default createGlobalStyle`
     outline: 0%;
     box-sizing: border-box;
 }
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
 `
 export const colors = {
     blue: "#719FE9"
