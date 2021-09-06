@@ -12,7 +12,7 @@ const Header = () => {
             </picture>
             <h1>Flying Shoes</h1>
             <input placeholder="O que você deseja?"></input>
-            <Link to="">log in</Link>
+            <Link to="/cadastro">log in</Link>
             <picture>
                 <img src={login} alt="Ícone de log in"/>
             </picture>

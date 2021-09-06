@@ -1,1 +1,7 @@
 export { default as Home} from "./Home"
+export { default as Adidas} from "./Adidas"
+export { default as Botas} from "./Botas"
+export { default as Cadastro} from "./Cadastro"
+export { default as Lazer} from "./Lazer"
+export { default as Nike} from "./Nike"
+export { default as Sport} from "./Sport"
