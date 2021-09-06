@@ -1,4 +1,4 @@
-import { Header, Section, Main, Footer } from "components"; 
+import { Header, Section, Footer } from "components"; 
 
 
 const Cadastro = () => {
