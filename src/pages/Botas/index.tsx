@@ -1,4 +1,4 @@
-import { Header, Section, Main, Footer } from "components"; 
+import { Header, Section, BotasMain, Footer } from "components"; 
 
 
 const Botas = () => {
@@ -6,7 +6,7 @@ const Botas = () => {
         <>
             <Header/>
             <Section/>
-            <Main/>
+            <BotasMain/>
             <Footer/>
         </>
     )

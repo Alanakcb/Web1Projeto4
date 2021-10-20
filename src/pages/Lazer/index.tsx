@@ -1,4 +1,4 @@
-import { Header, Section, Main, Footer } from "components"; 
+import { Header, Section, LazerMain, Footer } from "components"; 
 
 
 const Lazer = () => {
@@ -6,7 +6,7 @@ const Lazer = () => {
         <>
             <Header/>
             <Section/>
-            <Main/>
+            <LazerMain/>
             <Footer/>
         </>
     )

@@ -1,4 +1,4 @@
-import { Header, Section, Main, Footer } from "components"; 
+import { Header, Section, NikeMain, Footer } from "components"; 
 
 
 const Nike = () => {
@@ -6,7 +6,7 @@ const Nike = () => {
         <>
             <Header/>
             <Section/>
-            <Main/>
+            <NikeMain/>
             <Footer/>
         </>
     )

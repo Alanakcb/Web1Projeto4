@@ -1,4 +1,4 @@
-import { Header, Section, Main, Footer } from "components"; 
+import { Header, Section, AdidasMain, Footer } from "components"; 
 
 
 const Adidas = () => {
@@ -6,7 +6,7 @@ const Adidas = () => {
         <>
             <Header/>
             <Section/>
-            <Main/>
+            <AdidasMain/>
             <Footer/>
         </>
     )
